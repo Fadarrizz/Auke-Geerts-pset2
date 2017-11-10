@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string name="button_start">GET STARTED!</string>
+    <string name="text_start">Welcome to Mad Libs! Create funny stories by filling in the blank words en see them create a funny random story! Click \'GET STARTED!\' to begin</string>
+    <string name="text_fill">Fill in the words to complete the story!</string>
+    <string name="adjective">adjective</string>
+    <string name="plural_noun">plural-noun</string>
+    <string name="noun">noun</string>
+    <string name="place">place</string>
+    <string name="funny_noise">funny-noise</string>
+    <string name="job">job</string>
+    <string name="number">number</string>
+    <string name="job_title">job-title</string>
+    <string name="button">OK</string>
+    <string name="words_left">" word(s) left"</string>
+    <string name="button_story">Make awesome story!</string>
+</resources>
